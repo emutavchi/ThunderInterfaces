@@ -16,7 +16,8 @@
         "type": "string",
         "enum": [
           "resumed",
-          "suspended"
+          "suspended",
+          "backgrounded"
         ]
       },
       "events": [
